@@ -1,0 +1,9 @@
+room_id,room_name,actual_kwh,cost
+R01,Open Office,5540.51,8310.76
+R02,Meeting Room,1094.76,1642.14
+R03,Manager Office,1109.19,1663.78
+R04,Server Room,14567.98,21851.96
+R05,Lecture Hall,4989.56,7484.34
+R06,Computer Lab,5254.92,7882.38
+R07,Library,7724.98,11587.46
+R08,Cafeteria,3475.66,5213.48
