@@ -3,8 +3,7 @@ NAME/ AHMED ZAKARIA FAYZ
 
 # Building Energy Analyzer
 
-**Student name:** YOUR NAME HERE
-**Course / Assignment:** Assignment 01 – Building Energy Analyzer
+ Assignment 01 – Building Energy Analyzer
 
 ## Project Description
 
